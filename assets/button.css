@@ -1,0 +1,19 @@
+.sorsawodigital-button a {
+	border: 0;
+	border-radius: 2px;
+    letter-spacing: 0.75px;
+	line-height: 1;
+    padding: 13.5px 14px 12.5px;
+    font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+    background: #007acc;
+	color: #fff;
+    box-shadow: none;
+}
+
+.sorsawodigital-button a:hover,
+.sorsawodigital-button a:focus {
+    background: #1a1a1a;
+    box-shadow: none;
+}
